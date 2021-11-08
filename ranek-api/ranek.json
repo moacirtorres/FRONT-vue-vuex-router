@@ -1,0 +1,37 @@
+{
+    "usuario": [
+        {
+            "id": "moacir@origamid.com",
+            "email": "moacir@origamid.com",
+            "nome": "Moacir Torres",
+            "senha": "123",
+            "rua": "Rua Leme, 115",
+            "cep": "12345678",
+            "numero": "115",
+            "estado": "RJ",
+            "cidade" : "Rio de Janeiro"
+
+        }
+    ],
+    "produto": [
+        {
+            "id": "notebook",
+            "nome": "Notebook",
+            "usuario_id": "moacir@origamid.com",
+            "preco": "4999",
+            "vendido": "false",
+            "descricao": "Esse é um novo notebook.",
+            "fotos": []
+        },
+        {
+            "id": "mesa",
+            "nome": "Mesa",
+            "usuario_id": "moacir@origamid.com",
+            "preco": "499",
+            "vendido": "true",
+            "descricao": "Esse é uma nova mesa.",
+            "fotos": []
+        }
+
+    ]
+}
